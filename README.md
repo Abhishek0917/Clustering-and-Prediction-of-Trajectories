@@ -4,5 +4,8 @@ Aerial Vehicles follow a guided approach based on Latitude, Longitude and Altitu
 
 ## Technology Stack
 1. Python Packages for Data Processing and Cleaning
-Pandas
-Numpy
+* Pandas
+* Numpy
+
+2. Deeplearning Framework
+* PyTorch
