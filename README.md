@@ -74,7 +74,7 @@ o Table 3: F1-Score
 | CatBoost | 88% |
 
 
-o Receiver Operating Characteristics and Area Under Curve
+* Receiver Operating Characteristics and Area Under Curve
 
 
 Receiver Operating Characteristics abbreviated as RoC is performance measurement metric for classification models considering thresholds. It is formed using True Positive Rate and False Positive Rate. But the RoC is not sufficient, Area Under Curve abbreviated as AUC is essential for representing the measure of separability. The value of AUC is plot between 0 and 1. Closer the AUC to 1, better is the algorithm.
