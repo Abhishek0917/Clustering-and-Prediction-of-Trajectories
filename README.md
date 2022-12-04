@@ -19,7 +19,10 @@ Aerial Vehicles follow a guided approach based on Latitude, Longitude and Altitu
 * Pandas
 * Numpy
 
-2. Deeplearning Framework
+2. Python Packages for Machine Learning
+* Scikit Learn
+
+3. Deeplearning Framework
 * PyTorch
 
 ## Results
@@ -83,32 +86,3 @@ Receiver Operating Characteristics abbreviated as RoC is performance measurement
 ![alt text](Results/traj_roc_auc.png)
 
                                                          Figure 1: RoC with AUC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
